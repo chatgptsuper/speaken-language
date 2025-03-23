@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speaken Language - 智能口语对话系统 | Intelligent Oral English Practice System
 
 ### 项目介绍
@@ -107,3 +108,7 @@ speaken-language/
 ![示意图](images\图片1.png)
 ![示意图](images\图片2.png)
 ![示意图](images\图片3.png)
+=======
+# speaken-language
+智能口语对话训练机器人
+>>>>>>> 63f83f4a003c24d0538aa6d6f5554e8691fd7df8
