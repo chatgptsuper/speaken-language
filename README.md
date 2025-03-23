@@ -27,14 +27,6 @@ Speaken Language 是一个基于人工智能的中英文口语练习系统。它
 - 环境变量：dotenv
 - 大语言模型：deepseek API
 
-### 系统架构
-```mermaid
-graph LR
-    A[前端Vue3] --> B[后端Express]
-    B --> C[百度语音服务]
-    B --> D[deepseek API]
-    B --> E[音频处理FFmpeg]
-
 ### 主要功能模块
 
 #### 1. 语音识别与合成
